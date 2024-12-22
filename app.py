@@ -1,5 +1,5 @@
 import streamlit as st
-from tictactoe import TicTacToeGame  # Import your game logic
+from tic_tac_toe import TicTacToeGame  # Import your game logic
 
 # Initialize the game
 if 'game' not in st.session_state:
