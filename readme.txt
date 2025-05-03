@@ -1,10 +1,5 @@
 
-Overview:
-
-Matthew Renza is the original author of the tic tac toe environment using modern best practices and PEP-8 guidelines. Shruti Shah made modifications to make the code base ready for assignments related to algorithm development. 
-
-In addition, he created unit tests for every aspect of this environment to verify it's correctness.
-He also eliminated all 3rd-party library dependencies (except for unit testing) to keep things simple.
+This Github is the files for a fully deployed Tic Tac Toe game.
 
 
 Files:
